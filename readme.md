@@ -23,6 +23,9 @@ A simple OOP mini project in C++ that stores contacts (name and phone number) an
 | File | Purpose |
 
 | `main.cpp` | All the C++ code |
+
 | `style.css` | Styling for the exported HTML page |
+
 | `contacts.txt` | Saved contacts (created automatically) |
+
 | `contacts.html` | Browser view (created on export) |
